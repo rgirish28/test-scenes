@@ -77,6 +77,7 @@
                 </transform>
             </light>
             <object name="mits_curves" model="curve_object">
+                <parameter name="radius" value="0.00559955" />
                 <parameter name="basis" value="2" />
                 <parameter name="filepath" value="hair.mitshair" />
             </object>
